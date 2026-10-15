@@ -9,3 +9,6 @@ console.log("This is a test of the new branch.");
 
 // Novo teste de colaboração
 console.log("Testing collaboration again with a new message.");
+
+// Teste final como Co-fundador
+console.log("Testando de forma definitiva como co-fundador")
